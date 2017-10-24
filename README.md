@@ -1,0 +1,2 @@
+# Golad C++ Starterbot
+
