@@ -3,6 +3,7 @@ using namespace std;
 
 Bot::Bot()
 {
+  this->board = NULL;
 }
 
 void Bot::Kill(Coordinate target)
